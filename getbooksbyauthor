@@ -1,0 +1,9 @@
+curl -s http://localhost:5000/author/Jane%20Austen
+
+[
+    {
+        "isbn": "8",
+        "title": "Pride and Prejudice",
+        "reviews": {}
+    }
+]
